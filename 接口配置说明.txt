@@ -8,5 +8,3 @@ clan://localhost/tvboxKX/hiker_store.json
 
 Fengmi影视多线配置接口
 file://tvboxKX/hiker_offline.json
-
-
