@@ -1,9 +1,9 @@
 {
     "urls": [
-        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/quickhigh0411/box/main/本地【道长本地】/index.json",
-            "name": "github【道长本地】"
-        },   
+        //{
+        //    "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/quickhigh0411/box/main/本地【道长本地】/index.json",
+        //    "name": "github【道长本地】"
+       // },   
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/quickhigh0411/box/main/本地【OK线路】/api.json",
             "name": "github【OK线路】"
