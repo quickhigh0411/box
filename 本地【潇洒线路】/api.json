@@ -179,7 +179,10 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 1,
-			"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/少儿教育.json"
+			//"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/少儿教育.json"
+			"ext": {
+                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
+            }
 		},
 		{
 			"key": "hipy_js_我的哔哩[官]2",
@@ -190,7 +193,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 2,
-			"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/小学教育.json"
+			//"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/小学教育.json"
 		},
 		{
 			"key": "hipy_js_我的哔哩[官]3",
