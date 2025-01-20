@@ -161,7 +161,7 @@
 		},
 		{
 			"key": "hipy_js_我的哔哩[官]0",
-			"name": "📚哔哩教育[教]",
+			"name": "📚哔哩教育",
 			"type": 3,
 			"api": "./JS/drpy2.min.js",
 			"searchable": 1,
@@ -171,30 +171,8 @@
 			"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/哔哩教育.json"
 		},
 		{
-			"key": "hipy_js_我的哔哩[官]3",
-			"name": "📚初中┃课堂[教]",
-			"type": 3,
-			"api": "./JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 3,
-			"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/初中课堂.json"
-		},
-		{
-			"key": "hipy_js_我的哔哩[官]4",
-			"name": "📚高中┃课堂[教]",
-			"type": 3,
-			"api": "./JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 4,
-			"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/高中课堂.json"
-		},
-		{
 			"key": "hipy_js_我的哔哩[官]1",
-			"name": "📚少儿┃教育[教]",
+			"name": "📚少儿┃教育",
 			"type": 3,
 			"api": "./JS/drpy2.min.js",
 			"searchable": 1,
@@ -205,7 +183,7 @@
 		},
 		{
 			"key": "hipy_js_我的哔哩[官]2",
-			"name": "📚小学┃课堂[教]",
+			"name": "📚小学┃课堂",
 			"type": 3,
 			"api": "./JS/drpy2.min.js",
 			"searchable": 1,
@@ -214,6 +192,28 @@
 			"order_num": 2,
 			"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/小学教育.json"
 		},
+		{
+			"key": "hipy_js_我的哔哩[官]3",
+			"name": "📚初中┃课堂",
+			"type": 3,
+			"api": "./JS/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 3,
+			"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/初中课堂.json"
+		},
+		{
+			"key": "hipy_js_我的哔哩[官]4",
+			"name": "📚高中┃课堂",
+			"type": 3,
+			"api": "./JS/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 4,
+			"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/高中课堂.json"
+		},		
 		{
 			"key": "立播弹幕",
 			"name": "立播｜弹幕",
