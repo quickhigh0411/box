@@ -160,63 +160,32 @@
 			"timeout": 10
 		},
 		{
-			"key": "hipy_js_我的哔哩[官]0",
-			"name": "📚哔哩教育",
+			"key": "腾讯弹幕",
+			"name": "腾讯｜弹幕",
 			"type": 3,
 			"api": "./JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/哔哩教育.json"
+			"ext": "./JS/腾讯弹幕.js"
 		},
 		{
-			"key": "hipy_js_我的哔哩[官]1",
-			"name": "📚少儿┃教育",
+			"key": "优酷弹幕",
+			"name": "优酷｜弹幕",
 			"type": 3,
 			"api": "./JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 1,
-			"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/少儿教育.json"
-
+			"ext": "./JS/优酷弹幕.js"
 		},
 		{
-			"key": "hipy_js_我的哔哩[官]2",
-			"name": "📚小学┃课堂",
+			"key": "芒果弹幕",
+			"name": "芒果｜弹幕",
 			"type": 3,
 			"api": "./JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 2,
-			"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/小学教育.json"
-
+			"ext": "./JS/芒果弹幕.js"
 		},
 		{
-			"key": "hipy_js_我的哔哩[官]3",
-			"name": "📚初中┃课堂",
+			"key": "爱奇艺弹幕",
+			"name": "爱奇艺｜弹幕",
 			"type": 3,
 			"api": "./JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 3,
-			"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/初中课堂.json"
-
-		},
-		{
-			"key": "hipy_js_我的哔哩[官]4",
-			"name": "📚高中┃课堂",
-			"type": 3,
-			"api": "./JS/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 4,
-			"ext": "./JS/我的哔哩[官].js?type=url&params=../JSON/高中课堂.json"
-
+			"ext": "./JS/爱奇艺弹幕.js"
 		},
 		{
 			"key": "立播弹幕",
@@ -234,7 +203,6 @@
 				"danmu": true
 			}
 		},
-
 		{
 			"key": "腾讯弹幕",
 			"name": "腾讯｜弹幕",
@@ -863,7 +831,7 @@
 			"searchable": 1,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw6PDo8KYwpvCn8KlwqbCpMKtwqrCrmNlZGbCssKswqjDnMOpwqZewpHCoMKmw5bDosOow6jCmsKhwpnCnsOgwqHDp8Oyw6vClsKcwp/CpcOdwqHDncOow6diwprCmcKVw6TDosOvwqfDrsKrwqRSXMKbwrzDqMOiw67CisKfwqLClMKbwq3CnMOiw6jCnMKkwoZhwqrCrMKcwqXCnMKnwpnCoFLCs8KVw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKbwp/CnMK6w5/CpnvClcKpwpvCrcKcwr/Cr2R2ZXTCrsKlwr7Cq8KtdnJ2YsKwwpXCpsKbwrvCmMKjecKmwpvCrcKcwr/Cr2R2ZXTCrsKlwr7Cq8KtdnJ2YsKwwpXCpsKbw43CnMKkwpXChcOrw5/CnMKzwpxVwq0="
+			"ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDgsOhw6PDrcORwqLCosKUV8KzwpPCocOiw6jCnMKkwoZhwqrCrMKhwqXCmlrCpMKZwqDCoMKtwprCoMOV5Ya46YSY5o+V5ZCTwqXlh5/kvpHlkbDCtOW+pOintui1tOa7gOetksOQwqHCpcKaWnHClcKjw4TDmMOzwqDCtFNXdmXCqsK5wq/CvcKvZXRiY8K8wrXDgMKrwrFaXFBXwrrDmMOtw4LDsFpqUFfCv8KowqvCv8Kvd2VidMKrwqbCvcK7w4BlZ1dcwpnCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoGrCqMKiwq/CssKoZGVjXsKqwqnCrsKnwqtlZGpmwq/CqMKvwqjDrcKbwpHCksKZwqfDo8Oiw6nCoV9QV8KUw57DlsOsw7LDqsKne8KVwqnCoMKtwprCoMOzwpTCn8KnwpHDp8OawqrCqsKsaVfCrQ=="
 		},
 		{
 			"key": "站长影视",
