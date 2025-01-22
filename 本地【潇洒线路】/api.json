@@ -193,24 +193,8 @@
 			"order_num": 2,
 			"ext": "./JS/1_我的哔哩[官].js?type=url&params=../JSON/小学教育.json"
 		},
-		
-		 {
-            "key": "小学课堂",
-            "name": "📚小学┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-				"json": "./JSON/xxkt.json"
-            }
-        },
+
+
 		{
 			"key": "hipy_js_我的哔哩[官]3",
 			"name": "📚初中┃课堂[教]",
@@ -232,6 +216,41 @@
 			"filterable": 1,
 			"order_num": 4,
 			"ext": "./JS/1_我的哔哩[官].js?type=url&params=../JSON/高中课堂.json"
+		},
+
+		{
+			"key": "小学课堂",
+			"name": "📚小学┃课堂[备]",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": {
+				"cookie": "./cookie/bilibili.txt",
+				"json": "./JSON/xxkt.json"
+			}
+		},
+		{
+			"key": "初中课堂",
+			"name": "📚初中┃课堂[备]",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": {
+				"cookie": "./cookie/bilibili.txt",
+				"json": "./JSON/cckt.json"
+			}
 		},
 		{
 			"key": "立播弹幕",
