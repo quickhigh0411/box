@@ -193,24 +193,24 @@
 			"order_num": 2,
 			"ext": "./JS/1_我的哔哩[官].js?type=url&params=../JSON/小学教育.json"
 		},
-		
+
 		{
-			 
+
 			"key": "小学课堂",
-            "name": "📚小学┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
+			"name": "📚小学┃课堂",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-            "ext": {
+			"ext": {
 				"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
 				"json": "./JSON/xxkt.json"
-			},
+			}
 		},
 
 		{
