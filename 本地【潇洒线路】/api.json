@@ -204,12 +204,13 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
+            "searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
-            }
+				"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+				"json": "./JSON/小学教育.json"
+			},
 		},
 
 		{
