@@ -264,6 +264,7 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext": {
+				"cookie": "./cookie/bilibili.txt",
 				"json": "./JSON/cckt.json"
 			}
 		},
