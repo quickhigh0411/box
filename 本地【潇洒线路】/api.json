@@ -217,7 +217,23 @@
 			"order_num": 4,
 			"ext": "./JS/1_我的哔哩[官].js?type=url&params=../JSON/高中课堂.json"
 		},
-
+		{
+			"key": "少儿教育",
+			"name": "📚少儿┃教育[备]",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": {
+				"cookie": "./cookie/bilibili.txt",
+				"json": "./JSON/xxkt.json"
+			}
+		},
 		{
 			"key": "小学课堂",
 			"name": "📚小学┃课堂[备]",
@@ -248,8 +264,24 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext": {
-				"cookie": "./cookie/bilibili.txt",
 				"json": "./JSON/cckt.json"
+			}
+		},
+		{
+			"key": "高中教育",
+			"name": "📚高中┃课堂[备]",
+			"type": 3,
+			"api": "csp_Bili",
+			"style": {
+				"type": "rect",
+				"ratio": 1.597
+			},
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext": {
+				"cookie": "./cookie/bilibili.txt",
+				"json": "./JSON/gzkt.json"
 			}
 		},
 		{
