@@ -13,6 +13,17 @@
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
+    
+    
+     {
+      "name": "天微影视线",
+      "type": 0,
+      "url": "./lib/a.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "天微livev2",
       "type": 0,
@@ -33,7 +44,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "公众号：天微科技 提示：自测用禁传播，切勿购买（1月18更）",
+      "name": "公众号：天微科技 祝您：新年快乐 阖家幸福(0207更)",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -51,17 +62,6 @@
         "type": "rect",
         "ratio": 1.43
       }
-    },
-    {
-      "key": "好趣网",
-      "name": "《好趣🔹直播》",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 87,
-      "ext": "./lib/好趣网.js"
     },
     {
       "key": "alllive",
@@ -88,6 +88,17 @@
       "order_num": 0,
       "ext": "./js/央视大全.js"
     },
+  
+     {
+            "key": "人人",
+            "name": "《免扫🔹人4K》",
+            "type": 3,
+            "api": "csp_Xdai",
+            "jar": "./jar/配置中心.jar",
+            "playerType": 1,
+            "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
+        },
+      
     {
       "key": "csp_JPYY",
       "name": "《金牌🔹秒播》",
@@ -111,16 +122,7 @@
       "order_num": 0,
       "ext": "./lib/腾腾4K.js"
     },
-    {
-      "key": "皮皮虾",
-      "name": "《免扫🔹虾4K》",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.ppxys.vip/api.php/app/"
-    },
+    
     {
       "key": "csp_Wwys",
       "name": "《理想🔹影视》",
@@ -131,9 +133,7 @@
       "jar": "./lib/1020.jar",
       "ext": "https://www.wwgz.cn/"
     },
-    
-    
-        {
+    {
       "key": "量子",
       "name": "《量子🔹秒播》",
       "type": 1,
@@ -231,6 +231,7 @@
         "danmu": true
       }
     },
+    
     {
       "key": "浪酷弹幕",
       "name": "《浪酷🔹弹幕》",
@@ -350,14 +351,7 @@
       },
       "timeout": 10
     },
-    {
-      "key": "zhaixing",
-      "name": "《星星🔹影院》",
-      "type": 3,
-      "api": "csp_AppZX",
-      "jar": "./lib/1020.jar",
-      "playerType": 2
-    },
+   
     {
       "key": "csp_XSX",
       "name": "《视讯🔹秒播》",
@@ -371,21 +365,9 @@
       "filterable": 1,
       "ext": ""
     },
-    {
-      "key": "csp_zhufan",
-      "name": "《追剧🔹秒播》",
-      "searchable": 1,
-      "quickSearch": 1,
-      "type": 3,
-      "api": "csp_MiTo",
-      "jar": "./lib/1020.jar",
-      "ext": {
-        "url": "http://103.88.35.251:8989",
-        "dataKey": "aassddwwxxllsx1x",
-        "playKey": "bbssqdbbssll25sx",
-        "version": "2.1.0"
-      }
-    },
+    
+    
+     
     {
       "key": "宝片视频_js",
       "name": "《宝片🔹官源》",
@@ -435,6 +417,25 @@
         }
       }
     },
+    
+    
+     {
+            "key": "夸克闪电弹幕",
+            "name": "《闪电🔹UC4K》",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "http://1.95.79.193",
+                "danmu": true
+            }
+        },
     {
       "key": "木偶网盘",
       "name": "《木偶🔹UC4K》",
@@ -959,16 +960,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/河马短剧.json"
-    },
-    {
-      "key": "csp_XYQHiker_短剧屋",
-      "name": "《小屋🎦短剧》",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/短剧屋.json"
     },
     {
       "key": "js_蓝莓短剧",
