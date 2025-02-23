@@ -144,7 +144,7 @@
 			"changeable": 0,
 			"ext": {
 				"cookie": "./cookie/bilibili.txt",
-				"json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"
+				"json": "./JSON/bilibili.json"
 			}
 		},
 		{
@@ -2292,6 +2292,7 @@
         }
     ],
     "hosts": [
+        "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",

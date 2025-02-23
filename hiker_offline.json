@@ -1,5 +1,17 @@
 {
-    "urls": [
+    "urls": [				
+		{
+            "url": "clan://localhost/tvboxKX/本地【潇洒线路】/api.json",
+            "name": "本地【潇洒线路】"
+        },
+		{
+            "url": "clan://localhost/tvboxKX/本地【摸鱼线路】/api.json",
+            "name": "本地【摸鱼线路】"
+        },
+        {
+            "url": "clan://localhost/tvboxKX/本地【天微VIP线】/api.json",
+            "name": "本地【天微VIP线】"
+        },
         {
             "url": "clan://localhost/tvboxKX/本地【道长本地】/index.json",
             "name": "本地【道长本地】"
@@ -7,19 +19,7 @@
         {
             "url": "clan://localhost/tvboxKX/本地【OK线路】/api.json",
             "name": "本地【OK线路】"
-        },
-		{
-            "url": "clan://localhost/tvboxKX/本地【摸鱼线路】/api.json",
-            "name": "本地【摸鱼线路】"
         },		
-		{
-            "url": "clan://localhost/tvboxKX/本地【潇洒线路】/api.json",
-            "name": "本地【潇洒线路】"
-        },
-        {
-            "url": "clan://localhost/tvboxKX/本地【天微VIP线】/api.json",
-            "name": "本地【天微VIP线】"
-        },
         {
             "url": "clan://localhost/tvboxKX/本地【饭太硬线】/api.json",
             "name": "本地【饭太硬线】"
@@ -31,15 +31,19 @@
 		{
             "url": "clan://localhost/tvboxKX/本地【香雅情线】/api.json",
             "name": "本地【香雅情线】"
-        },									
-		{
-            "url": "http://ok321.top/tv",
-            "name": "在线【OK线路】"
-        },
+        },											
 		{
             "url": "http://我不是.摸鱼儿.com",
             "name": "在线【摸鱼线路】"
         },
+		{
+			"url": "https://7337.kstore.space/twvip/自用测试.json",
+			"name": "在线【天微单线】"
+		},
+		{
+			"url": "https://11256.kstore.space/免费勿传.json",
+			"name": "在线【七星单线】"
+		},
 		{
             "url": "http://肥猫.com/",
             "name": "在线【肥猫线路】"
@@ -47,6 +51,10 @@
 		{
             "url": "http://www.饭太硬.com/tv/",
             "name": "在线【饭太硬线】"
+        },
+		{
+            "url": "http://ok321.top/tv",
+            "name": "在线【OK线路】"
         },
 		{
             "url": "http://cdn.qiaoji8.com/tvbox.json",
