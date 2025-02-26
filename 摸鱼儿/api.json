@@ -1771,6 +1771,35 @@
 		}
 	},
 	{
+		"name": "影视车",
+		"type": "1",
+		"url": "https://bbs.ystv.cc/baidu.php?key=520abcd&url=",
+		"ext": {
+			"flag": [
+				"qq",
+				"腾讯",
+				"qiyi",
+				"爱奇艺",
+				"奇艺",
+				"youku",
+				"优酷",
+				"sohu",
+				"搜狐",
+				"letv",
+				"乐视",
+				"mgtv",
+				"芒果",
+				"tnmb",
+				"seven",
+				"bilibili",
+				"1905"
+			],
+			"header": {
+				"User-Agent": "okhttp/4.9.1"
+			}
+		}
+	},
+	{
 			"name": "巧技",
 			"type": 1,
 			"url": "https://zy.qiaoji8.com/neibu.php?url=",
@@ -1828,36 +1857,7 @@
 					"User-Agent": "okhttp/4.9.1"
 				}
 			}
-		},
-		{
-			"name": "zhuimi-1080",
-			"type": 1,
-			"url": "https://jxjson.icu/neibu.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
+		},		
 		{
 			"name": "虾米",
 			"url": "https://jx.xmflv.com/?url=",
@@ -1921,7 +1921,7 @@
 			"header": {
 				"User-Agent": "Mozilla/5.0"
 			}
-		},
+		},	
 		{
 			"name": "-777-",
 			"url": "https://jx.777jiexi.com/player/?url=",
