@@ -62,11 +62,7 @@
 		{
 			"url": "http://cdn.qiaoji8.com/tvbox.json",
 			"name": "在线【巧技线路】"
-		},
-		{
-			"url": "https://tvbox.catvod.com/catvod.json",
-			"name": "在线【猫影视线路】"
-		},
+		},		
 		{
 			"url": "http://www.meowtv.top",
 			"name": "在线【喵影视线】"
