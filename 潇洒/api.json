@@ -1960,9 +1960,9 @@
 			}
 		},
 		{
-			"name": "影视车",
+			"name": "987解析",
 			"type": "1",
-			"url": "https://bbs.ystv.cc/baidu.php?key=520abcd&url=",
+			"url": "http://openapi.973973.xyz/open/api_free/index/?url=",
 			"ext": {
 				"flag": [
 					"qq",
