@@ -217,7 +217,7 @@
 		"quickSearch": 0,
 		"changeable": 0,
 		"ext": {
-			"cookie": "file://TVBox/bilibili.txt"
+			"cookie": "file://TVBox/bilibili.txt",
 			"json": "./lib/bilibili.json"
 		}
 	},
