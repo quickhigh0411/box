@@ -45,7 +45,7 @@
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=ailive"
+      "ext": "./lib/moyu.php?file=ailive"
     },
 	{
 		"key": "hipy_js_奇珍异兽[官]",
@@ -575,7 +575,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/PizazzGY.php",
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=面包"
+      "ext": "./lib/moyu.php?file=面包"
     },
     {
       "key": "糖果",
@@ -610,7 +610,7 @@
       "jar": "./lib/PizazzGY.php",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=流光"
+      "ext": "./lib/moyu.php?file=流光"
     },
     {
       "key": "五五影视",
@@ -621,7 +621,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=55"
+      "ext": "./lib/moyu.php?file=55"
     },
     {
       "key": "白白",
@@ -834,7 +834,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=央视经典"
+      "ext": "./lib/moyu.php?file=央视经典"
     },
     {
       "key": "河马短剧",
@@ -853,7 +853,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/PizazzGY.php",
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=吉吉"
+      "ext": "./lib/moyu.php?file=吉吉"
     },
     {
       "key": "爱我短剧",
@@ -864,7 +864,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=爱我"
+      "ext": "./lib/moyu.php?file=爱我"
     },
     {
       "key": "星芽短剧",
@@ -882,7 +882,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/PizazzGY.php",
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=短剧网"
+      "ext": "./lib/moyu.php?file=短剧网"
     },
     {
       "key": "短剧屋",
@@ -893,7 +893,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=短剧屋"
+      "ext": "./lib/moyu.php?file=短剧屋"
     },
     {
       "key": "DFun动漫",
@@ -940,7 +940,7 @@
       "style": {
         "type": "list"
       },
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哆啦"
+      "ext": "./lib/moyu.php?file=哆啦"
     },
     {
       "key": "去看吧",
@@ -980,7 +980,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩合集"
+        "json": "./lib/moyu.php?file=哔哩合集"
       }
     },
     {
@@ -996,7 +996,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=mtv"
+        "json": "./lib/moyu.php?file=mtv"
       }
     },
     {
@@ -1026,7 +1026,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=少儿教育"
+        "json": "./lib/moyu.php?file=少儿教育"
       }
     },
     {
@@ -1042,7 +1042,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=小学教育"
+        "json": "./lib/moyu.php?file=小学教育"
       }
     },
     {
@@ -1058,7 +1058,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=初中课堂"
+        "json": "./lib/moyu.php?file=初中课堂"
       }
     },
     {
@@ -1074,7 +1074,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=高中课堂"
+        "json": "./lib/moyu.php?file=高中课堂"
       }
     },
     {
