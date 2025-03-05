@@ -36,17 +36,108 @@
         "ratio": 1.597
       }
     },
-    {
-      "key": "版本信息",
-      "name": "🐏本地┃肥羊┃直播",
-      "type": 3,
-      "api": "csp_Market",
-      "jar": "./lib/PizazzGY.php",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "ext": "./lib/moyu.php?file=ailive"
-    },
+	{
+		"key": "Bili",
+		"name": "🅱哔哔合集┃弹幕",
+		"type": 3,
+		"api": "csp_Bili",
+		"style": {
+			"type": "rect",
+			"ratio": 1.597
+		},
+		"searchable": 1,
+		"quickSearch": 0,
+		"changeable": 0,
+		"ext": {
+			"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+			"json": "./lib/bilibili.json"
+		}
+	},
+	{
+		"key": "Biliych",
+		"name": "🅱哔哔演唱会┃弹幕",
+		"type": 3,
+		"api": "csp_Bili",
+		"style": {
+			"type": "rect",
+			"ratio": 1.597
+		},
+		"searchable": 1,
+		"quickSearch": 0,
+		"changeable": 0,
+		"ext": {
+			"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+			"json": "./lib/biliych.json"
+		}
+	},
+	{
+		"key": "少儿教育",
+		"name": "📚少儿┃教育",
+		"type": 3,
+		"api": "csp_Bili",
+		"style": {
+			"type": "rect",
+			"ratio": 1.597
+		},
+		"searchable": 0,
+		"quickSearch": 0,
+		"changeable": 0,
+		"ext": {
+			"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+			"json": "./lib/sejy.json"
+		}
+	},
+	{
+		"key": "小学课堂",
+		"name": "📚小学┃课堂",
+		"type": 3,
+		"api": "csp_Bili",
+		"style": {
+			"type": "rect",
+			"ratio": 1.597
+		},
+		"searchable": 0,
+		"quickSearch": 0,
+		"changeable": 0,
+		"ext": {
+			"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+			"json": "./lib/xxkt.json"
+		}
+	},
+	{
+		"key": "初中课堂",
+		"name": "📚初中┃课堂",
+		"type": 3,
+		"api": "csp_Bili",
+		"style": {
+			"type": "rect",
+			"ratio": 1.597
+		},
+		"searchable": 0,
+		"quickSearch": 0,
+		"changeable": 0,
+		"ext": {
+			"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+			"json": "./lib/cckt.json"
+		}
+	},
+	{
+		"key": "高中教育",
+		"name": "📚高中┃课堂",
+		"type": 3,
+		"api": "csp_Bili",
+		"style": {
+			"type": "rect",
+			"ratio": 1.597
+		},
+		"searchable": 0,
+		"quickSearch": 0,
+		"changeable": 0,
+		"ext": {
+			"cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
+			"json": "./lib/gzkt.json"
+		}
+	},
 	{
 		"key": "hipy_js_奇珍异兽[官]",
 		"name": "🧑奇珍异兽[官]",
@@ -211,7 +302,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "cookie": "file://tvbox/bilibili.txt"
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
       },
       "timeout": 10
     },
@@ -575,7 +666,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/PizazzGY.php",
-      "ext": "./lib/moyu.php?file=面包"
+      "ext": "./lib/面包影视.json"
     },
     {
       "key": "糖果",
@@ -610,18 +701,7 @@
       "jar": "./lib/PizazzGY.php",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./lib/moyu.php?file=流光"
-    },
-    {
-      "key": "五五影视",
-      "name": "😭呜呜┃蓝光┃无广",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/PizazzGY.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/moyu.php?file=55"
+      "ext": "./lib/流光影视.json"
     },
     {
       "key": "白白",
@@ -826,16 +906,7 @@
       "filterable": 1,
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
-    {
-      "key": "央视经典",
-      "name": "🇨🇳央视┃经典┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/moyu.php?file=央视经典"
-    },
+    
     {
       "key": "河马短剧",
       "name": "🦛河马┃短剧┃热推",
@@ -853,7 +924,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/PizazzGY.php",
-      "ext": "./lib/moyu.php?file=吉吉"
+      "ext": "./lib/吉吉短剧.json"
     },
     {
       "key": "爱我短剧",
@@ -864,7 +935,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/moyu.php?file=爱我"
+      "ext": "./lib/爱我短剧.json"
     },
     {
       "key": "星芽短剧",
@@ -882,7 +953,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./lib/PizazzGY.php",
-      "ext": "./lib/moyu.php?file=短剧网"
+      "ext": "./lib/短剧网.json"
     },
     {
       "key": "短剧屋",
@@ -893,7 +964,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/moyu.php?file=短剧屋"
+      "ext": "./lib/短剧屋.json"
     },
     {
       "key": "DFun动漫",
@@ -940,7 +1011,7 @@
       "style": {
         "type": "list"
       },
-      "ext": "./lib/moyu.php?file=哆啦"
+      "ext": "./lib/哆啦新番社.json"
     },
     {
       "key": "去看吧",
@@ -967,38 +1038,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "Bili",
-      "name": "🆙哔哩┃合集┃弹幕",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/moyu.php?file=哔哩合集"
-      }
-    },
-    {
-      "key": "Biliych",
-      "name": "🆙哔哩┃歌曲┃弹幕",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/moyu.php?file=mtv"
-      }
-    },
+    
     {
       "key": "有声小说js",
       "name": "📚有声┃小说┃娱乐",
@@ -1013,70 +1053,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃学识┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/moyu.php?file=少儿教育"
-      }
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/moyu.php?file=小学教育"
-      }
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/moyu.php?file=初中课堂"
-      }
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中┃课堂┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/moyu.php?file=高中课堂"
-      }
-    },
+    
     {
       "key": "厂长弹幕",
       "name": "🏭️厂长┃蓝光┃弹幕",
