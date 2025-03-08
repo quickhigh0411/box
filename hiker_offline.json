@@ -31,7 +31,11 @@
 		{
             "url": "clan://localhost/tvboxKX/香雅情/api.json",
             "name": "本地【香雅情线】"
-        },											
+        },
+		{
+			"url": "https://cnb.cool/zhyadc/YsBox/-/git/raw/main/index.json",
+			"name": "在线【道长DS】"
+		},		
 		{
 			"url": "http://tvbox.王二小放牛娃.top",
 			"name": "在线【王二小线路】"
